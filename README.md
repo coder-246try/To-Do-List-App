@@ -25,5 +25,5 @@ $ python -m http.server
 ```
 ## Screenshot of the app
 
-[ToDo-List App](.\to-do-app\images\screenshot.png)
+[ToDo-List App](images/screenshot.png)
 
