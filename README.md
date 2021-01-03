@@ -15,7 +15,7 @@ Project is created with:
 
 	
 ## Setup
-To use this project,run the following code:
+To open this project on localhost,run the following code:
 
 if you have python3 installed,
 
