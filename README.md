@@ -1,5 +1,5 @@
 ## Table of contents
-* [General-info]
+* General-info
 * [Technologies]
 * [Setup]
 * [Screenshot of the app](.\to-do-app\images\screenshot.png)
